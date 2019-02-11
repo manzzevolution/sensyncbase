@@ -1,0 +1,290 @@
+'unknown': I need something more specific.
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+[Errno 2] could not open port /dev/CO2: [Errno 2] No such file or directory: '/dev/CO2'
+[Errno 2] could not open port /dev/PM: [Errno 2] No such file or directory: '/dev/PM'
+Port 1 opened...
+Port 2 opened...
+[95m=== Sensync Base Jabar - Depok ===[0m
+[92m2018-12-20 17:00:02[0m
+[94m
+---------------------------------------------------------------------------------
+     .:::::::::.      
+   '::::::--:::::'    
+  ':::-'''--''-:::'   
+  ':::  .::::. `:::'    .:::.  .:::.   ::.::.   .:::. ':'  ':' ::.:::.   .:::.   
+  ':::  :..:::  :::'   ::  '' ::   ::  ::''':: ::  ''  ::..::  ::'''::  ::'  ''  
+  ':::.  '::' .:::'    '::::. :::::::  ::   :: '::::.   ::::   ::   ::  ::       
+   '::::......::::'    ..  :: :::      ::   :: ..  ::    ::    ::   ::  ::.  ..  
+    .::::::::::::.     '::::'  :::::'  ::   :: '::::'    ::    ::   ::   ':::'   
+     .:::....:::.       _____                       __
+     ':::::::::'       |  _  \ ___   ____  ____    |  |____  ____  ____  ____  
+      '::...::'        | |_| |  _ \ / __ \   __|    | |  _ \   _ \   _ \   _ \ 
+        '::::'         |  _ <  |_| |\ \__   |_      | | |_| | |_|<  |_| | |_| |
+         '::'          | |_| |  _  | `__ \  |__  '\_| |  _  | |_| |  _  |    / 
+          ''           |_____/_| |_|\____/_____| \____/_| |_|____/ _| |_|_|\_\ 
+        .::::.        
+         ''''           (c)2015 - 2018 811841<4
+---------------------------------------------------------------------------------
+[0m
+Filename     : /home/airpowerx11/data/20181220.txt
+FilenameFDisk: /media/fd/20181220.txt
+Sampling :  20
+Interval :  1.0
+
+Pump ON...
+SensorValNull:  17
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.315		0.322		0.551		0.324		
+ADC2=	0.200		0.221		0.374		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.031		0.538		0.538		
+error: CO2 not installed
+20
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.317		0.330		0.546		0.320		
+ADC2=	0.202		0.218		0.374		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+19
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.334		0.341		0.535		0.308		
+ADC2=	0.212		0.217		0.355		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+18
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.335		0.344		0.523		0.299		
+ADC2=	0.216		0.219		0.349		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+17
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.336		0.341		0.519		0.296		
+ADC2=	0.216		0.218		0.342		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.031		0.538		0.538		
+error: CO2 not installed
+16
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.326		0.335		0.522		0.297		
+ADC2=	0.216		0.219		0.354		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+15
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.326		0.334		0.531		0.304		
+ADC2=	0.213		0.218		0.351		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.031		0.538		0.538		
+error: CO2 not installed
+14
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.329		0.335		0.528		0.299		
+ADC2=	0.212		0.216		0.356		0.041		
+ADC3=	0.537		0.537		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+13
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.335		0.340		0.527		0.302		
+ADC2=	0.213		0.219		0.351		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.031		0.538		0.538		
+error: CO2 not installed
+12
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.326		0.335		0.ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+ERROR:Sht1x:nack1
+531		0.305		
+ADC2=	0.214		0.220		0.361		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+11
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.331		0.336		0.532		0.307		
+ADC2=	0.212		0.219		0.358		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+10
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.334		0.337		0.530		0.308		
+ADC2=	0.213		0.219		0.356		0.041		
+ADC3=	0.538		0.537		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+9
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.333		0.339		0.530		0.310		
+ADC2=	0.210		0.214		0.371		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.031		0.538		0.538		
+error: CO2 not installed
+8
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.338		0.339		0.525		0.301		
+ADC2=	0.223		0.220		0.345		0.041		
+ADC3=	0.538		0.537		0.540		0.540		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+7
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.330		0.339		0.529		0.302		
+ADC2=	0.214		0.219		0.353		0.041		
+ADC3=	0.538		0.537		0.540		0.540		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+6
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.324		0.333		0.534		0.309		
+ADC2=	0.209		0.217		0.355		0.041		
+ADC3=	0.538		0.537		0.540		0.540		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+5
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.306		0.317		0.551		0.327		
+ADC2=	0.194		0.219		0.380		0.041		
+ADC3=	0.538		0.537		0.540		0.540		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+4
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.317		0.330		0.540		0.311		
+ADC2=	0.207		0.219		0.367		0.041		
+ADC3=	0.538		0.537		0.540		0.540		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+3
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.327		0.338		0.537		0.304		
+ADC2=	0.209		0.217		0.360		0.041		
+ADC3=	0.538		0.537		0.540		0.539		
+ADC4=	0.538		0.032		0.538		0.538		
+error: CO2 not installed
+2
+--------------------------------------------------------------
+	CH1(V)		CH2(V)		CH3(V)		CH4(V)
+ADC1=	0.313		0.324		0.549		0.321		
+ADC2=	0.201		0.218		0.374		0.041		
+ADC3=	0.538		0.538		0.540		0.539		
+ADC4=	0.538		0.031		0.538		0.538		
+error: CO2 not installed
+1
+Heater OFF...
+Pump OFF...
+counter: 0
+vane pot value: 0.53810625
+------------------ PM Sensor Result ----------------
+0.O3	: 0.0
+1.CO	: 0.240353598015
+2.NO2	: 0.00106823979592
+3.SO2	: 0.995101610429
+4.NO	: 0.0
+5.CO2	: -2.0
+6.VOC	: 27.0028125
+7.PM1	: 0.0
+8.PM2.5	: 0.0
+9.PM4	: 0.0
+10.PM10	: 0.0
+11.TSP	: 0.0
+12.ERR	: 0.0
+13.TEMP	: 446.016
+14.RH	: -2550.62618496
+15.WS	: 0.0
+16.WD	: 3
+
+[95m=== Sensync Base Jabar - Bandung Rev 1.3-180402 ===[0m
+[92m2018-12-20 17:02:47[0m
+Filename     : /home/airpowerx11/data/20181220.txt
+FilenameFDisk: /media/fd/20181220.txt
+-------------------- UPLOAD DATA --------------------
+http://secure.getsensync.com/proc/bplhd_jabar/base/process.php?o3=0.0&co=275.204869727&no2=2.00829081633&so2=2607.16621933&no=0.0&co2=-2.0&voc=27.0028125&pm1=0.0&pm25=0.0&pm4=0.0&pm10=0.0&tsp=0.0&err=0.0&temp=446.016&hum=-2550.62618496&ws=0.0&wd=3&id=xx-bplhd-jabar-dpk
+-----------------------------------------------------
+Connect to Sensync Server...
+Network Error
+Traceback (most recent call last):
+  File "/home/airpowerx11/sensyncbase/sensyncbase_v1.31.py", line 788, in <module>
+    writelog("network error")	
+NameError: name 'writelog' is not defined
