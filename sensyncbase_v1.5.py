@@ -28,7 +28,7 @@ socket.setdefaulttimeout(5)
 
 rev = '  V1.3-133EEED' 
 id = 'xx-klh-skbm'
-url_upload='http://secure.getsensync.com/proc/klh_skbm/base/process.php'
+url_upload='http://128.199.194.1/proc/klh_skbm/base/process.php'
 #url_start='http://secure.getsensync.com/proc/klh_skbm/base/start.php?id='
 url_start='http://128.199.194.1/'
 lcd = lcddriver.lcd()
