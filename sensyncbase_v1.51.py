@@ -775,13 +775,13 @@ def waitSampling():
 
 def scroll(title,string,twolines):
 	if twolines==1 and len(title)>0:
-        print"error lenght"
-        #lcd.close()
-        exit()
+		print"error lenght"
+		#lcd.close()
+		exit()
     if len(title)>16:
-        print"error exceed"
-        #lcd.close()
-        exit()
+		print"error exceed"
+		#lcd.close()
+		exit()
  
     longstr=len(string)
     for i in range (0,longstr):
